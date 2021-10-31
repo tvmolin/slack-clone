@@ -1,0 +1,267 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "name": "group 1"
+    },
+    {
+      "id": "2",
+      "name": "group 2"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "timestamp": "",
+      "content": "Minha mensagem grupo 1",
+      "groupId": "1",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "timestamp": "",
+      "content": "Mensagem do fulano grupo 1",
+      "groupId": "1",
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "timestamp": "",
+      "content": "Minha mensagem grupo 2",
+      "groupId": "2",
+      "userId": 1
+    },
+    {
+      "id": "4",
+      "timestamp": "",
+      "content": "Mensagem do fulano grupo 2",
+      "groupId": "2",
+      "userId": 2
+    },
+    {
+      "content": "213123312",
+      "groupId": "1",
+      "id": "pyNvmFk"
+    },
+    {
+      "content": "asdasd",
+      "groupId": "1",
+      "id": "Sy8_5ZQ"
+    },
+    {
+      "content": "eae",
+      "groupId": "2",
+      "id": "DpoWcKb"
+    },
+    {
+      "content": "mee",
+      "userId": 1,
+      "groupId": "1",
+      "id": "9HJojwQ"
+    },
+    {
+      "content": "caralho",
+      "userId": 1,
+      "groupId": "1",
+      "id": "HzUpCYY"
+    },
+    {
+      "content": "ooopa",
+      "userId": 1,
+      "groupId": "2",
+      "id": "pw1HyGJ"
+    },
+    {
+      "content": "qwe",
+      "userId": 1,
+      "groupId": "2",
+      "id": "lFsyrGs"
+    },
+    {
+      "content": "BLABLABLA",
+      "userId": 1,
+      "groupId": "2",
+      "id": "oKD_Yee"
+    },
+    {
+      "content": "pooorraaa",
+      "userId": 1,
+      "groupId": "1",
+      "id": "Rlrni1P"
+    },
+    {
+      "content": "eeee",
+      "userId": 1,
+      "groupId": "2",
+      "id": "-vWsQES"
+    },
+    {
+      "content": "QWEQWEQW",
+      "userId": 2,
+      "groupId": "1",
+      "id": "-vWsQES"
+    },
+    {
+      "content": "OI KALIZINHA",
+      "userId": 2,
+      "groupId": "1",
+      "id": "-vWsQES"
+    },
+    {
+      "content": "qwpeuiqwpoe",
+      "userId": 1,
+      "groupId": "1",
+      "id": "gc90xSL"
+    },
+    {
+      "content": "eae",
+      "userId": 1,
+      "groupId": "1",
+      "id": "kBPpX60"
+    },
+    {
+      "content": "qweqwe",
+      "userId": 1,
+      "groupId": "1",
+      "id": "vOEk-P5"
+    },
+    {
+      "content": "IHWQDOIUHOIQWDU",
+      "userId": 1,
+      "groupId": "1",
+      "id": "moj5Kr6"
+    },
+    {
+      "content": "eae",
+      "userId": 1,
+      "groupId": "1",
+      "id": "NNOcpAV"
+    },
+    {
+      "content": "123",
+      "userId": 2,
+      "groupId": "1",
+      "id": "T4VbKOY"
+    },
+    {
+      "content": "meeeeeee",
+      "userId": 2,
+      "groupId": "1",
+      "id": "1Swrd6R"
+    },
+    {
+      "content": "oooopa",
+      "userId": 2,
+      "groupId": "1",
+      "id": "JequazX"
+    },
+    {
+      "content": "eae teu",
+      "userId": 1,
+      "groupId": "1",
+      "id": "RZ_YHjs"
+    },
+    {
+      "content": "massa",
+      "userId": 1,
+      "groupId": "1",
+      "id": "OxKPcw-"
+    },
+    {
+      "content": "?",
+      "userId": 1,
+      "groupId": "1",
+      "id": "xz6svcs"
+    },
+    {
+      "content": "massa tereteteu",
+      "userId": 2,
+      "groupId": "1",
+      "id": "dzPW_cZ"
+    },
+    {
+      "content": "123123",
+      "userId": 1,
+      "groupId": "1",
+      "id": "_qtV8nv"
+    },
+    {
+      "content": "ooopa",
+      "userId": 2,
+      "groupId": "1",
+      "id": "5UoGPMn"
+    },
+    {
+      "content": "mee",
+      "userId": 2,
+      "groupId": "1",
+      "id": "ypyb5Md"
+    },
+    {
+      "content": "q massa",
+      "userId": 2,
+      "groupId": "1",
+      "id": "5uJBF4m"
+    },
+    {
+      "content": "top teu",
+      "userId": 2,
+      "groupId": "1",
+      "id": "5WECTdN"
+    },
+    {
+      "content": "bah",
+      "userId": 2,
+      "groupId": "1",
+      "id": "b5we6Gl"
+    },
+    {
+      "content": "MEEEEEEEEE",
+      "userId": 2,
+      "groupId": "1",
+      "id": "YRcL8zd"
+    },
+    {
+      "content": "OOOPA EAE",
+      "userId": 2,
+      "groupId": "1",
+      "id": "LWt8INq"
+    },
+    {
+      "content": "td certo?",
+      "userId": 2,
+      "groupId": "1",
+      "id": "AIQjnZY"
+    },
+    {
+      "content": "td susse eae?",
+      "userId": 1,
+      "groupId": "1",
+      "id": "s5Kr-lI"
+    },
+    {
+      "content": ":0",
+      "userId": 1,
+      "groupId": "1",
+      "id": "fcXOOMh"
+    },
+    {
+      "content": "eae blza?",
+      "userId": 2,
+      "groupId": "1",
+      "id": "BHm0eMi"
+    },
+    {
+      "content": "massa eae?",
+      "userId": 1,
+      "groupId": "1",
+      "id": "xPILYue"
+    },
+    {
+      "content": ":0000",
+      "userId": 1,
+      "groupId": "1",
+      "id": "orA8mhN"
+    }
+  ]
+}
